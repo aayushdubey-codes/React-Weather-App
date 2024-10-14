@@ -1,9 +1,5 @@
 <h1>React Weather App - ReactJS Projects</h1>
 
-<h3><strong>Demo - Deployed over Github Pages</strong></h3>
-https://jiyauddin9.github.io/react-weather-app/
-
-
 <h3><strong>APIs Used</strong></h3>
 
 <a href="https://openweathermap.org/">Open Weather APIs</a>
